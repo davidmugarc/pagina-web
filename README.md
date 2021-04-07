@@ -1,2 +1,2 @@
 # pagina-web
-Página wweb del centro
+Página web del centro
